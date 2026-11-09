@@ -1,0 +1,265 @@
+[
+  {
+    "channel": "Россия 1",
+    "url": "https://iptvx.one/picons/rossia1.png",
+    "ok": true,
+    "slug": "rossia1",
+    "bytes": 7668,
+    "mime": "image/png"
+  },
+  {
+    "channel": "НТВ",
+    "url": "https://iptvx.one/picons/ntv.png",
+    "ok": true,
+    "slug": "ntv",
+    "bytes": 23472,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Первый канал",
+    "url": "https://iptvx.one/picons/pervy.png",
+    "ok": true,
+    "slug": "pervy",
+    "bytes": 29750,
+    "mime": "image/png"
+  },
+  {
+    "channel": "РЕН ТВ",
+    "url": "https://iptvx.one/picons/rentv.png",
+    "ok": true,
+    "slug": "rentv",
+    "bytes": 6921,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Пятый канал",
+    "url": "https://iptvx.one/picons/5kanal-ru.png",
+    "ok": true,
+    "slug": "5kanal-ru",
+    "bytes": 5564,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Домашний",
+    "url": "https://iptvx.one/picons/domashny.png",
+    "ok": true,
+    "slug": "domashny",
+    "bytes": 26245,
+    "mime": "image/png"
+  },
+  {
+    "channel": "СТС",
+    "url": "https://iptvx.one/picons/sts.png",
+    "ok": true,
+    "slug": "sts",
+    "bytes": 21745,
+    "mime": "image/png"
+  },
+  {
+    "channel": "ТНТ",
+    "url": "https://iptvx.one/picons/tnt.png",
+    "ok": true,
+    "slug": "tnt",
+    "bytes": 8471,
+    "mime": "image/png"
+  },
+  {
+    "channel": "ТВ Центр",
+    "url": "https://iptvx.one/picons/tvcentr.png",
+    "ok": true,
+    "slug": "tvcentr",
+    "bytes": 10567,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Карусель",
+    "url": "https://iptvx.one/picons/karusel.png",
+    "ok": true,
+    "slug": "karusel",
+    "bytes": 28614,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Звезда",
+    "url": "https://iptvx.one/picons/zvezda.png",
+    "ok": true,
+    "slug": "zvezda",
+    "bytes": 11430,
+    "mime": "image/png"
+  },
+  {
+    "channel": "ТВ-3",
+    "url": "https://iptvx.one/picons/tv3.png",
+    "ok": true,
+    "slug": "tv3",
+    "bytes": 8870,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Пятница!",
+    "url": "https://iptvx.one/picons/piatnica.png",
+    "ok": true,
+    "slug": "piatnica",
+    "bytes": 11003,
+    "mime": "image/png"
+  },
+  {
+    "channel": "МИР",
+    "url": "https://iptvx.one/picons/mir.png",
+    "ok": true,
+    "slug": "mir",
+    "bytes": 27599,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Матч ТВ",
+    "url": "https://iptvx.one/picons/match-tv.png",
+    "ok": true,
+    "slug": "match-tv",
+    "bytes": 5329,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Россия 24",
+    "url": "https://iptvx.one/picons/rossia-24.png",
+    "ok": true,
+    "slug": "rossia-24",
+    "bytes": 6917,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Россия Культура",
+    "url": "https://iptvx.one/picons/kultura.png",
+    "ok": true,
+    "slug": "kultura",
+    "bytes": 11397,
+    "mime": "image/png"
+  },
+  {
+    "channel": "ОТР",
+    "url": "https://iptvx.one/picons/otr.png",
+    "ok": true,
+    "slug": "otr",
+    "bytes": 5133,
+    "mime": "image/png"
+  },
+  {
+    "channel": "МУЗ-ТВ",
+    "url": "https://iptvx.one/picons/muztv.png",
+    "ok": true,
+    "slug": "muztv",
+    "bytes": 20352,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Солнце",
+    "url": "https://iptvx.one/picons/solnce.png",
+    "ok": true,
+    "slug": "solnce",
+    "bytes": 17092,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Мосфильм. Золотая коллекция",
+    "url": "https://iptvx.one/picons/mosfilm.png",
+    "ok": true,
+    "slug": "mosfilm",
+    "bytes": 39237,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Русский роман",
+    "url": "https://iptvx.one/picons/russky-roman.png",
+    "ok": true,
+    "slug": "russky-roman",
+    "bytes": 26891,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Дом кино",
+    "url": "https://iptvx.one/picons/domkino.png",
+    "ok": true,
+    "slug": "domkino",
+    "bytes": 7059,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Победа",
+    "url": "https://iptvx.one/picons/pobeda.png",
+    "ok": true,
+    "slug": "pobeda",
+    "bytes": 19147,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Русский детектив",
+    "url": "https://iptvx.one/picons/russky-detektiv.png",
+    "ok": true,
+    "slug": "russky-detektiv",
+    "bytes": 29718,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Мульт",
+    "url": "https://iptvx.one/picons/mult.png",
+    "ok": true,
+    "slug": "mult",
+    "bytes": 13907,
+    "mime": "image/png"
+  },
+  {
+    "channel": "ТНТ4",
+    "url": "https://iptvx.one/picons/tnt4.png",
+    "ok": true,
+    "slug": "tnt4",
+    "bytes": 9736,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Суббота!",
+    "url": "https://iptvx.one/picons/subbota.png",
+    "ok": true,
+    "slug": "subbota",
+    "bytes": 10384,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Ю",
+    "url": "https://iptvx.one/picons/yu.png",
+    "ok": true,
+    "slug": "yu",
+    "bytes": 24720,
+    "mime": "image/png"
+  },
+  {
+    "channel": "ЧЕ!",
+    "url": "https://iptvx.one/picons/che.png",
+    "ok": true,
+    "slug": "che",
+    "bytes": 25426,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Кино ТВ",
+    "url": "https://iptvx.one/picons/kino-tv.png",
+    "ok": true,
+    "slug": "kino-tv",
+    "bytes": 25863,
+    "mime": "image/png"
+  },
+  {
+    "channel": "Мультиландия",
+    "url": "https://iptvx.one/picons/multimania.png",
+    "ok": true,
+    "slug": "multimania",
+    "bytes": 29585,
+    "mime": "image/png"
+  },
+  {
+    "channel": "В гостях у сказки",
+    "url": "https://iptvx.one/picons/v-gostiax-u-skazki.png",
+    "slug": "v-gostiax-u-skazki",
+    "ok": true,
+    "bytes": 32670
+  }
+]

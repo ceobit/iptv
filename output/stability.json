@@ -1,0 +1,250 @@
+[
+  {
+    "channel": "Россия 1",
+    "url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:26:51.997447+00:00"
+  },
+  {
+    "channel": "НТВ",
+    "url": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:27:01.960727+00:00"
+  },
+  {
+    "channel": "Первый канал",
+    "url": "http://45.153.24.78/1TV/tracks-v1a1/mono.ts.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "[h264 @ 0xac2c11180] mmco: unref short failure\n[h264 @ 0xac2c12a00] mmco: unref short failure\n[h264 @ 0xac2c12d80] reference picture missing during reorder\n[h264 @ 0xac2c12d80] Missing reference picture, default is 2147483647\n[h264 @ 0xac2c13100] mmco: unref short failure\n[h264 @ 0xac2c13480] reference picture missing during reorder\n[h264 @ 0xac2c13480] Missing reference picture, default is 2147483647\n[h264 @ 0xac2c13b80] reference picture missing during reorder\n[h264 @ 0xac2c13b80] Missing reference picture, default is 2147483647\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac347c000] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n[http @ 0xac3415720] Error reading HTTP response: End of file\n[http @ 0xac3641ec0] Error reading HTTP response: End of file\n",
+    "checked_at": "2026-11-09T19:26:53.689665+00:00"
+  },
+  {
+    "channel": "РЕН ТВ",
+    "url": "http://31.148.5.241/kanal_11/tracks-v1a1/mono.ts.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:26:52.764484+00:00"
+  },
+  {
+    "channel": "Пятый канал",
+    "url": "http://31.148.5.241/kanal_5/tracks-v1a1/mono.ts.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:26:52.967455+00:00"
+  },
+  {
+    "channel": "Домашний",
+    "url": "http://stream.mcquack.net/227/index.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:26:55.611747+00:00"
+  },
+  {
+    "channel": "СТС",
+    "url": "http://stream.mcquack.net/138/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:26:53.126449+00:00"
+  },
+  {
+    "channel": "ТНТ",
+    "url": "http://stream.mcquack.net/135/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:26:55.805340+00:00"
+  },
+  {
+    "channel": "ТВ Центр",
+    "url": "https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "[tls @ 0xbcd017000] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcd014100] IO error: End of file\n[https @ 0xbccd44000] Error reading HTTP response: End of file\n[tls @ 0xbcd017000] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcd014100] IO error: End of file\n[https @ 0xbccebdec0] Error reading HTTP response: End of file\n[tls @ 0xbcd555980] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcd557800] IO error: End of file\n[https @ 0xbccebdec0] Error reading HTTP response: End of file\n[tls @ 0xbcd014e80] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcd015d00] IO error: End of file\n[https @ 0xbccebdec0] Error reading HTTP response: End of file\n[tls @ 0xbcd557b80] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcd556800] IO error: End of file\n[https @ 0xbccebdec0] Error reading HTTP response: End of file\n[tls @ 0xbcdc20600] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcdc20a00] IO error: End of file\n[https @ 0xbccebdec0] Error reading HTTP response: End of file\n[tls @ 0xbcd555900] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcd554e80] IO error: End of file\n[https @ 0xbccebdec0] Error reading HTTP response: End of file\n[tls @ 0xbcd555900] IO error: End of file\n[https @ 0xbccc49720] Error reading HTTP response: End of file\n[tls @ 0xbcd554e80] IO error: End of file\n[https @ 0xbccebdec0] Error reading HTTP response: End of file\n",
+    "checked_at": "2026-11-09T19:27:53.063837+00:00"
+  },
+  {
+    "channel": "Карусель",
+    "url": "https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:27:51.053746+00:00"
+  },
+  {
+    "channel": "Звезда",
+    "url": "https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:27:51.300649+00:00"
+  },
+  {
+    "channel": "ТВ-3",
+    "url": "http://stream.mcquack.net/136/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "[http @ 0x7d9434180] Error reading HTTP response: End of file\n",
+    "checked_at": "2026-11-09T19:27:55.143110+00:00"
+  },
+  {
+    "channel": "Пятница!",
+    "url": "http://stream.mcquack.net/181/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": false,
+    "seconds": 0.0,
+    "error": "wall-clock timeout",
+    "checked_at": "2026-11-09T19:28:33.708828+00:00"
+  },
+  {
+    "channel": "МИР",
+    "url": "https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:28:03.515037+00:00"
+  },
+  {
+    "channel": "Матч ТВ",
+    "url": "http://stream.mcquack.net/169/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:27:57.764463+00:00"
+  },
+  {
+    "channel": "Россия 24",
+    "url": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "[https @ 0xbacc086c0] Error reading HTTP response: End of file\n",
+    "checked_at": "2026-11-09T19:28:03.632645+00:00"
+  },
+  {
+    "channel": "Россия Культура",
+    "url": "https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:28:43.454116+00:00"
+  },
+  {
+    "channel": "ОТР",
+    "url": "http://31.148.5.241/kanal_9/tracks-v1a1/mono.ts.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:28:53.858497+00:00"
+  },
+  {
+    "channel": "МУЗ-ТВ",
+    "url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:28:45.064734+00:00"
+  },
+  {
+    "channel": "Солнце",
+    "url": "http://217.114.191.150/Solnce/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:28:48.337728+00:00"
+  },
+  {
+    "channel": "Мосфильм. Золотая коллекция",
+    "url": "http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:28:57.041406+00:00"
+  },
+  {
+    "channel": "Русский роман",
+    "url": "http://stream.mcquack.net/266/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:00.278752+00:00"
+  },
+  {
+    "channel": "Дом кино",
+    "url": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:02.194565+00:00"
+  },
+  {
+    "channel": "Русский детектив",
+    "url": "http://stream.mcquack.net/204/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:38.116229+00:00"
+  },
+  {
+    "channel": "Мульт",
+    "url": "http://stream.mcquack.net/232/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:40.093099+00:00"
+  },
+  {
+    "channel": "ТНТ4",
+    "url": "http://stream.mcquack.net/106/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:44.448195+00:00"
+  },
+  {
+    "channel": "Суббота!",
+    "url": "http://stream.mcquack.net/269/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+    "ok": true,
+    "seconds": 60.007875,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:50.302570+00:00"
+  },
+  {
+    "channel": "Ю",
+    "url": "http://178.134.1.158:8081/U/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:55.315801+00:00"
+  },
+  {
+    "channel": "Кино ТВ",
+    "url": "http://176.118.197.101/KinoTvHD/tracks-v1a1/mono.ts.m3u8",
+    "ok": false,
+    "seconds": 0.0,
+    "error": "wall-clock timeout",
+    "checked_at": "2026-11-09T19:30:37.058497+00:00"
+  },
+  {
+    "channel": "Мультиландия",
+    "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:59.695057+00:00"
+  },
+  {
+    "channel": "В гостях у сказки",
+    "url": "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+    "ok": true,
+    "seconds": 60.0,
+    "error": "",
+    "checked_at": "2026-11-09T19:29:55.206008+00:00"
+  }
+]

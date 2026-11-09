@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+*.pyc
+sources/
+
+# Generated diagnostics stay local; selected evidence is explicitly tracked.
+output/*
+!output/iptv-germany.m3u
+!output/REPORT.md
+!output/verification.json
+!output/logo-checks.json
+!output/stability.json
+!output/logos-preview.jpg
