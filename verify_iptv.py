@@ -115,6 +115,9 @@ def run(args, timeout):
 
 def probe(entry):
     entry = dict(entry, checked_at=now())
+    reject_placeholder(entry)
+    if entry.get('rejection'):
+        return entry
     code, out, err = run(['ffprobe', '-v', 'error', *input_args(entry),
                           '-analyzeduration', '3000000', '-probesize', '4000000',
                           '-show_streams', '-show_format', '-of', 'json', entry['url']], 24)
@@ -136,6 +139,14 @@ def probe(entry):
 
 
 def reject_placeholder(entry):
+    # User confirmed persistent CINERAMA advertising instead of the channel.
+    # Decoding and resolution checks cannot distinguish it from a live feed.
+    parsed = urllib.parse.urlsplit(entry['url'])
+    host = parsed.hostname or ''
+    if host == 'cinerama.uz' or host.endswith('.cinerama.uz'):
+        entry.update(probe_ok=False, rejection='CINERAMA advertising card reported on TV; source excluded')
+    if host == '31.148.5.241' and parsed.path.startswith('/kanal_6/'):
+        entry.update(probe_ok=False, rejection='Russia K test pattern, visually confirmed; feed excluded')
     # Visually confirmed on this network: Wink's territorial blocking card.
     if entry.get('width') == 1980 and entry.get('height') == 1920:
         entry.update(probe_ok=False, rejection='Wink territorial blocking card, visually confirmed')

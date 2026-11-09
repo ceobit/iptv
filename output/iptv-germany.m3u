@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общие",Россия 1
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общие",Россия 1
+http://109.207.243.18/2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общие",НТВ
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+http://31.148.5.241/kanal_4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общие",Первый канал
 http://45.153.24.78/1TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общие",РЕН ТВ
@@ -18,33 +18,33 @@ http://stream.mcquack.net/135/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общие",ТВ Центр
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель
-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+http://194.152.35.17/Karusel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Познавательные и культура",Звезда
-https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+http://31.148.5.241/kanal_17/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TV3.ru@HD" tvg-logo="https://iptvx.one/picons/tv3.png" group-title="Развлекательные",ТВ-3
 http://stream.mcquack.net/136/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница!
 http://stream.mcquack.net/181/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общие",МИР
-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общие",МИР
+http://31.148.5.241/kanal_18/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спорт",Матч ТВ
 http://stream.mcquack.net/169/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новости",Россия 24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Познавательные и культура",Россия Культура
-https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новости",Россия 24
+http://31.148.5.241/kanal_7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Познавательные и культура",Россия Культура
+http://stream.mcquack.net/229/index.m3u8
 #EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общие",ОТР
 http://31.148.5.241/kanal_9/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Музыка",МУЗ-ТВ
-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+http://31.148.5.241/kanal_20/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские",Солнце
 http://217.114.191.150/Solnce/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Фильмы и сериалы",Русский роман
 http://stream.mcquack.net/266/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Фильмы и сериалы",Дом кино
+http://88.212.15.50/live/test_dom_kino/playlist.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Фильмы и сериалы",Победа
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-2k_v5.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Фильмы и сериалы",Русский детектив
@@ -59,7 +59,5 @@ http://stream.mcquack.net/269/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 http://178.134.1.158:8081/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Фильмы и сериалы",Кино ТВ
 http://194.152.35.17/kino-tv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="Детские",Мультиландия
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1

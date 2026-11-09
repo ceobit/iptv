@@ -1,19 +1,21 @@
 [
   {
-    "channel": "Россия 1",
-    "url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
+    "frames": 1499,
     "error": "",
-    "checked_at": "2026-11-09T19:26:51.997447+00:00"
+    "checked_at": "2026-11-09T19:59:32.890156+00:00",
+    "channel": "Россия 1",
+    "url": "http://109.207.243.18/2/tracks-v1a1/mono.m3u8"
   },
   {
-    "channel": "НТВ",
-    "url": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
-    "error": "",
-    "checked_at": "2026-11-09T19:27:01.960727+00:00"
+    "frames": 1496,
+    "error": "[h264 @ 0xc3380c380] Reference 2 >= 2\n[h264 @ 0xc3380c380] error while decoding MB 23 4, bytestream 19411\n",
+    "checked_at": "2026-11-09T19:57:45.208959+00:00",
+    "channel": "НТВ",
+    "url": "http://31.148.5.241/kanal_4/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "channel": "Первый канал",
@@ -72,20 +74,22 @@
     "checked_at": "2026-11-09T19:27:53.063837+00:00"
   },
   {
-    "channel": "Карусель",
-    "url": "https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
+    "frames": 1499,
     "error": "",
-    "checked_at": "2026-11-09T19:27:51.053746+00:00"
+    "checked_at": "2026-11-09T19:58:08.491935+00:00",
+    "channel": "Карусель",
+    "url": "http://194.152.35.17/Karusel/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "channel": "Звезда",
-    "url": "https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
+    "frames": 1495,
     "error": "",
-    "checked_at": "2026-11-09T19:27:51.300649+00:00"
+    "checked_at": "2026-11-09T19:57:44.838934+00:00",
+    "channel": "Звезда",
+    "url": "http://31.148.5.241/kanal_17/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "channel": "ТВ-3",
@@ -96,20 +100,23 @@
     "checked_at": "2026-11-09T19:27:55.143110+00:00"
   },
   {
-    "channel": "Пятница!",
-    "url": "http://stream.mcquack.net/181/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
-    "ok": false,
-    "seconds": 0.0,
-    "error": "wall-clock timeout",
-    "checked_at": "2026-11-09T19:28:33.708828+00:00"
-  },
-  {
-    "channel": "МИР",
-    "url": "https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
+    "frames": 1499,
     "error": "",
-    "checked_at": "2026-11-09T19:28:03.515037+00:00"
+    "checked_at": "2026-11-09T19:29:47.837864+00:00",
+    "wall_seconds": 51.596920208,
+    "channel": "Пятница!",
+    "url": "http://stream.mcquack.net/181/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1"
+  },
+  {
+    "ok": true,
+    "seconds": 60.0,
+    "frames": 1495,
+    "error": "[h264 @ 0xc71188a80] Reference 3 >= 2\n[h264 @ 0xc71188a80] error while decoding MB 22 0, bytestream 6948\n",
+    "checked_at": "2026-11-09T19:57:44.795463+00:00",
+    "channel": "МИР",
+    "url": "http://31.148.5.241/kanal_18/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "channel": "Матч ТВ",
@@ -120,20 +127,22 @@
     "checked_at": "2026-11-09T19:27:57.764463+00:00"
   },
   {
-    "channel": "Россия 24",
-    "url": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
-    "error": "[https @ 0xbacc086c0] Error reading HTTP response: End of file\n",
-    "checked_at": "2026-11-09T19:28:03.632645+00:00"
+    "frames": 1498,
+    "error": "",
+    "checked_at": "2026-11-09T19:57:43.439649+00:00",
+    "channel": "Россия 24",
+    "url": "http://31.148.5.241/kanal_7/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "channel": "Россия Культура",
-    "url": "https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
+    "frames": 1499,
     "error": "",
-    "checked_at": "2026-11-09T19:28:43.454116+00:00"
+    "checked_at": "2026-11-09T20:00:35.352915+00:00",
+    "channel": "Россия Культура",
+    "url": "http://stream.mcquack.net/229/index.m3u8"
   },
   {
     "channel": "ОТР",
@@ -144,12 +153,13 @@
     "checked_at": "2026-11-09T19:28:53.858497+00:00"
   },
   {
-    "channel": "МУЗ-ТВ",
-    "url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
+    "frames": 1496,
     "error": "",
-    "checked_at": "2026-11-09T19:28:45.064734+00:00"
+    "checked_at": "2026-11-09T19:58:41.755591+00:00",
+    "channel": "МУЗ-ТВ",
+    "url": "http://31.148.5.241/kanal_20/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "channel": "Солнце",
@@ -176,12 +186,23 @@
     "checked_at": "2026-11-09T19:29:00.278752+00:00"
   },
   {
+    "ok": true,
+    "seconds": 60.007979,
+    "frames": 1500,
+    "error": "",
+    "checked_at": "2026-11-09T19:59:54.790005+00:00",
     "channel": "Дом кино",
-    "url": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+    "url": "http://88.212.15.50/live/test_dom_kino/playlist.m3u8"
+  },
+  {
     "ok": true,
     "seconds": 60.0,
-    "error": "",
-    "checked_at": "2026-11-09T19:29:02.194565+00:00"
+    "frames": 1500,
+    "error": "[https @ 0x7acc6c320] Error reading HTTP response: End of file\n    Last message repeated 2 times\n",
+    "checked_at": "2026-11-09T19:30:58.858149+00:00",
+    "wall_seconds": 56.144513665999995,
+    "channel": "Победа",
+    "url": "https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-2k_v5.m3u8"
   },
   {
     "channel": "Русский детектив",
@@ -224,27 +245,22 @@
     "checked_at": "2026-11-09T19:29:55.315801+00:00"
   },
   {
+    "ok": true,
+    "seconds": 60.0,
+    "frames": 1373,
+    "error": "",
+    "checked_at": "2026-11-09T19:32:18.974682+00:00",
+    "wall_seconds": 71.518501791,
     "channel": "Кино ТВ",
-    "url": "http://176.118.197.101/KinoTvHD/tracks-v1a1/mono.ts.m3u8",
-    "ok": false,
-    "seconds": 0.0,
-    "error": "wall-clock timeout",
-    "checked_at": "2026-11-09T19:30:37.058497+00:00"
+    "url": "http://194.152.35.17/kino-tv/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "channel": "Мультиландия",
-    "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
     "ok": true,
     "seconds": 60.0,
+    "frames": 1499,
     "error": "",
-    "checked_at": "2026-11-09T19:29:59.695057+00:00"
-  },
-  {
+    "checked_at": "2026-11-09T19:58:49.072229+00:00",
     "channel": "В гостях у сказки",
-    "url": "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
-    "ok": true,
-    "seconds": 60.0,
-    "error": "",
-    "checked_at": "2026-11-09T19:29:55.206008+00:00"
+    "url": "http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1"
   }
 ]
